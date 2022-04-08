@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliKomayha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning php and Arduino
+- 🌱 I’m currently learning Laravel, php and Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me allikomayha789@gmail.com
 
